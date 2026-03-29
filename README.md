@@ -1,7 +1,7 @@
 # 🌦️ WeathFly
 
 **WeathFly** is a modern, UI-first weather web application that provides real-time weather data, air quality insights, and a smooth interactive experience.  
-Built using vanilla JavaScript and public APIs, the focus is on clean design, usability, and performance
+Built using vanilla JavaScript and public APIs, the focus is on clean design, usability, and performance.
 
 ---
 
